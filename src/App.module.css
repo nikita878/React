@@ -1,0 +1,32 @@
+body{
+  font-family: 'Source Sans pro',sans-serif ;
+
+}
+.Topbar{
+    text-align: center;
+    background-color: #282c34;
+    padding: 24px 48px 12px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.MainContainer{
+  padding: 4% 12%;
+  margin-top: 32px ;
+  box-sizing: border-box;
+
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+
+
+.ProductData{
+  width: 100%;
+}
+.ProductPreview{
+  width: 100%;
+  position: relative;
+}
